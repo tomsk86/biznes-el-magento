@@ -1,0 +1,1 @@
+/Users/wojtas/Desktop/magento2/lib/web/jquery/fileUploader/canvas-to-blob.js

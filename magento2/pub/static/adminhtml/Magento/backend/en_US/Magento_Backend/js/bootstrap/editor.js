@@ -1,0 +1,1 @@
+/Users/wojtas/Desktop/magento2/app/code/Magento/Backend/view/adminhtml/web/js/bootstrap/editor.js

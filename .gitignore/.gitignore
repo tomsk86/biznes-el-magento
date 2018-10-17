@@ -6,6 +6,8 @@
 # Magento 2 Default Files    #
 #----------------------------#
 /magento2/*
+/test/*
+/test
 /.buildpath
 /.cache
 /.metadata
