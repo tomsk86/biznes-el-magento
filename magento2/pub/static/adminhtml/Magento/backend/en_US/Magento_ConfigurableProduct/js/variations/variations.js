@@ -1,0 +1,1 @@
+/Users/wojtas/Documents/biznes-el-magento/magento2/app/code/Magento/ConfigurableProduct/view/adminhtml/web/js/variations/variations.js

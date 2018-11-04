@@ -1,1 +1,1 @@
-/Users/wojtas/Desktop/magento2/lib/web/mage/apply/scripts.js
+/Users/wojtas/Documents/biznes-el-magento/magento2/lib/web/mage/apply/scripts.js

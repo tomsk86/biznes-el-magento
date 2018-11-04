@@ -1,1 +1,1 @@
-/Users/wojtas/Desktop/magento2/lib/web/tiny_mce/tiny_mce_src.js
+/Users/wojtas/Documents/biznes-el-magento/magento2/lib/web/tiny_mce/tiny_mce_src.js

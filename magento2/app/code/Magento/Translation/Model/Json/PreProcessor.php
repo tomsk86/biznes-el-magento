@@ -97,7 +97,7 @@ class PreProcessor implements PreProcessorInterface
             }
 
             $area = $this->areaList->getArea($areaCode);
-            $area->load(\Magento\Framework\App\Area::PART_TRANSLATE);
+$area->load(\Magento\Framework\App\Area::PART_TRANSLATE);
 
             $chain->setContent(json_encode($this->dataProvider->getData($themePath)));
             $chain->setContentType('json');

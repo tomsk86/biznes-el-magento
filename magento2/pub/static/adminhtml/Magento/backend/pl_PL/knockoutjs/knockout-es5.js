@@ -1,1 +1,1 @@
-/Users/wojtas/Desktop/magento2/lib/web/knockoutjs/knockout-es5.js
+/Users/wojtas/Documents/biznes-el-magento/magento2/lib/web/knockoutjs/knockout-es5.js

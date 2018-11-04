@@ -1,1 +1,1 @@
-/Users/wojtas/Desktop/magento2/lib/web/mage/adminhtml/wysiwyg/tiny_mce/plugins/magentowidget/editor_plugin.js
+/Users/wojtas/Documents/biznes-el-magento/magento2/lib/web/mage/adminhtml/wysiwyg/tiny_mce/plugins/magentowidget/editor_plugin.js

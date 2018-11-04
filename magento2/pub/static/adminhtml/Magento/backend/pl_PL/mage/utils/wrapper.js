@@ -1,1 +1,1 @@
-/Users/wojtas/Desktop/magento2/lib/web/mage/utils/wrapper.js
+/Users/wojtas/Documents/biznes-el-magento/magento2/lib/web/mage/utils/wrapper.js

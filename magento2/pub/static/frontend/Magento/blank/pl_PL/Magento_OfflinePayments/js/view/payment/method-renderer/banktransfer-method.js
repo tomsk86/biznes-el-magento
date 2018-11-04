@@ -1,0 +1,1 @@
+/Users/wojtas/Documents/biznes-el-magento/magento2/app/code/Magento/OfflinePayments/view/frontend/web/js/view/payment/method-renderer/banktransfer-method.js

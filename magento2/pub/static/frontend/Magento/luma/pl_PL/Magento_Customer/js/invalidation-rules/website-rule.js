@@ -1,1 +1,0 @@
-/Users/wojtas/Desktop/magento2/app/code/Magento/Customer/view/frontend/web/js/invalidation-rules/website-rule.js

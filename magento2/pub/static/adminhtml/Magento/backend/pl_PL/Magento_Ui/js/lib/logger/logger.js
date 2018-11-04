@@ -1,1 +1,1 @@
-/Users/wojtas/Desktop/magento2/app/code/Magento/Ui/view/base/web/js/lib/logger/logger.js
+/Users/wojtas/Documents/biznes-el-magento/magento2/app/code/Magento/Ui/view/base/web/js/lib/logger/logger.js

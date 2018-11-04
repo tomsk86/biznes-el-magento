@@ -1,1 +1,1 @@
-/Users/wojtas/Desktop/magento2/app/code/Magento/AdminNotification/view/adminhtml/web/toolbar_entry.js
+/Users/wojtas/Documents/biznes-el-magento/magento2/app/code/Magento/AdminNotification/view/adminhtml/web/toolbar_entry.js

@@ -64,7 +64,7 @@ class PreProcessor implements PreProcessorInterface
             }
 
             $area = $this->areaList->getArea($areaCode);
-            $area->load(\Magento\Framework\App\Area::PART_TRANSLATE);
+$area->load(\Magento\Framework\App\Area::PART_TRANSLATE);
 
             $chain->setContent($this->translate($chain->getContent()));
         }

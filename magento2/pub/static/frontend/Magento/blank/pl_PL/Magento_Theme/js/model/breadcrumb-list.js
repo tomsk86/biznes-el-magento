@@ -1,0 +1,1 @@
+/Users/wojtas/Documents/biznes-el-magento/magento2/app/code/Magento/Theme/view/frontend/web/js/model/breadcrumb-list.js

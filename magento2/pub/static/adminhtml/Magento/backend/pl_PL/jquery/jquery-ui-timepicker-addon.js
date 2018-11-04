@@ -1,1 +1,1 @@
-/Users/wojtas/Desktop/magento2/lib/web/jquery/jquery-ui-timepicker-addon.js
+/Users/wojtas/Documents/biznes-el-magento/magento2/lib/web/jquery/jquery-ui-timepicker-addon.js

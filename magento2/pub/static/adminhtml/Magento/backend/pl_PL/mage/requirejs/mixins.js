@@ -1,1 +1,1 @@
-/Users/wojtas/Desktop/magento2/lib/web/mage/requirejs/mixins.js
+/Users/wojtas/Documents/biznes-el-magento/magento2/lib/web/mage/requirejs/mixins.js

@@ -1,1 +1,1 @@
-/Users/wojtas/Desktop/magento2/app/design/adminhtml/Magento/backend/web/js/theme.js
+/Users/wojtas/Documents/biznes-el-magento/magento2/app/design/adminhtml/Magento/backend/web/js/theme.js

@@ -1,1 +1,0 @@
-/Users/wojtas/Desktop/magento2/app/code/Magento/Wishlist/view/frontend/web/js/view/wishlist.js

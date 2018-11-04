@@ -1,0 +1,1 @@
+/Users/wojtas/Documents/biznes-el-magento/magento2/app/code/Magento/Paypal/view/frontend/web/js/view/payment/paypal-payments.js

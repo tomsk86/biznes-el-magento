@@ -1,0 +1,1 @@
+/Users/wojtas/Documents/biznes-el-magento/magento2/app/code/Magento/Shipping/view/frontend/web/js/view/checkout/shipping/shipping-policy.js

@@ -59,7 +59,10 @@ class DeployTranslationsDictionary
      * @return void
      */
     public function deploy($area, $theme, $locale)
-    {
+        { $t = \Magento\Framework\App\ObjectManager::getInstance()->get(
+            \Magento\Framework\TranslateInterface::class
+        );
+        $t->setLocale($locale)->loadData($area, true);
         try {
             $this->state->emulateAreaCode($area, function () use ($area, $theme, $locale) {
                 $this->deployStaticFile->deployFile(

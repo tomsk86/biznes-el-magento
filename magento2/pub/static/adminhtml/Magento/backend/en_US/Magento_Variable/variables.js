@@ -1,1 +1,1 @@
-/Users/wojtas/Desktop/magento2/app/code/Magento/Variable/view/adminhtml/web/variables.js
+/Users/wojtas/Documents/biznes-el-magento/magento2/app/code/Magento/Variable/view/adminhtml/web/variables.js
